@@ -2,4 +2,4 @@ services:
   remotecontrol:
     build: .
     ports:
-      - 3001:9000
+      - 3002:9000
